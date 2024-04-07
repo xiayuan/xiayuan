@@ -1,16 +1,13 @@
-### Hi there 👋
+# Yuan Xia
 
-<!--
-**xiayuan/xiayuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2009.09-2013.06 School of Electronic Information Engineering, Tianjin University M.S.
+- 2013.09-2016.04 School of Information and Engineering, Beijing University of Posts and Telecommunications B.Eng.
+
+## Research Interests
+
+- Computer Vision
+- Natural Language Processing
+- Large Language Models
